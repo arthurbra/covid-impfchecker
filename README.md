@@ -1,2 +1,2 @@
-# covid-impfchecker
- Prüft und benachrichtigt bei freien Impfterminen gegen Covid-19 auf impfportal-niedersachsen.de
+Sucht regelmäßig auf impfportal-niedersachsen.de nach freien Impfterminen gegen Covid-19 und schickt über pushover.net eine Pushnachricht.
+Hierzu ist es erforderlich sich auf pushover.net einen Account anzulegen.
